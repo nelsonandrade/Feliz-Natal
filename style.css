@@ -14,8 +14,8 @@ h1{
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     width: auto;
     margin-bottom: 20px;
-    border: 3px solid black;
-    box-shadow: 2px 5px 8px #626161;
+    /*border: 3px solid black;
+    box-shadow: 2px 5px 8px #626161;*/
   }
   
 .flip-card{
